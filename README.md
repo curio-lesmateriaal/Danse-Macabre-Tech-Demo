@@ -1,9 +1,17 @@
 # Case Study: Danse Macabre Tech Demo
+## Client: Efteling
 
-## Description
+- [Installation](#description)
+- [Usage](#features)
+- [Credits](#credits)
+- [License](#license)
 
-Client: Efteling
-Background
-Efteling is preparing to open its new attraction, Danse Macabre, a thrilling and mysterious ride where visitors are taken on a ghostly adventure aboard a large rotating platform. Before the real-life attraction is built, Efteling wants to develop a digital tech demo in Unity.
+### Description
+Efteling is preparing to open its new attraction, Danse Macabre, a thrilling and mysterious ride where visitors are taken on a ghostly adventure aboard a large rotating platform. Before the real-life attraction is built, Efteling has developed a digital tech demo in Unity.
 
-Your team has been hired to make the 3D model of Danse Macabre, which is already available on GitHub, fully interactive. The model currently consists only of visuals and must be expanded with the correct movements and interactions.
+### Features
+- The large central platform must rotate.
+- The six smaller seat platforms must rotate independently.
+- A lift mechanism must raise the entire platform while it continues to spin.
+- A drop mechanism must make the platform suddenly fall while spinning.
+- A tilt mechanism must allow the platform to tilt at an angle.
