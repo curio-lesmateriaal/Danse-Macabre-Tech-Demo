@@ -1,10 +1,8 @@
 # Case Study: Danse Macabre Tech Demo
 ## Client: Efteling
 
-- [Installation](#description)
-- [Usage](#features)
-- [Credits](#credits)
-- [License](#license)
+- [Description](#description)
+- [Features](#features)
 
 ### Description
 Efteling is preparing to open its new attraction, Danse Macabre, a thrilling and mysterious ride where visitors are taken on a ghostly adventure aboard a large rotating platform. Before the real-life attraction is built, Efteling has developed a digital tech demo in Unity.
