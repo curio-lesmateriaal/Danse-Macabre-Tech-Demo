@@ -1,6 +1,7 @@
 # Case Study: Danse Macabre Tech Demo
 ## Client: Efteling
 
+## Table of contents
 - [Description](#description)
 - [Features](#features)
 
