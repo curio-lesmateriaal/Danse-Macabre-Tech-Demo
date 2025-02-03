@@ -5,6 +5,7 @@
 - [Example Screenshot](#example-screenshot)
 - [Description](#description)
 - [Features](#features)
+- [Getting Started](#getting-started)
 - [Credits](#credits)
 - [License](#license) 
 
@@ -21,7 +22,13 @@ Efteling is preparing to open its new attraction, Danse Macabre, a thrilling and
 - A drop mechanism must make the platform suddenly fall while spinning.
 - A tilt mechanism must allow the platform to tilt at an angle.
 
+### Getting Started
+#### Requirements
+Unity 6000.0.35f1 or later, using the universal render pipeline (URP) version 7.2.1 or later.
+Visual Studio 2022 Community Edtion.
+
 ### Credits
+- [Efteling](https://www.efteling.com/nl) 
 
 ### License
 The source code of this project and associated documentation is licensed under the [MIT licence](https://choosealicense.com/licenses/mit/).
