@@ -4,6 +4,8 @@
 ## Table of contents
 - [Description](#description)
 - [Features](#features)
+- [Credits](#credits)
+- [License](#license) 
 
 ![alt text](Assets/Images/dansemacabre-screencap-01.png)
     
@@ -16,3 +18,7 @@ Efteling is preparing to open its new attraction, Danse Macabre, a thrilling and
 - A lift mechanism must raise the entire platform while it continues to spin.
 - A drop mechanism must make the platform suddenly fall while spinning.
 - A tilt mechanism must allow the platform to tilt at an angle.
+
+### Credits
+
+### License
