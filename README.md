@@ -1,7 +1,7 @@
 # Case 1: Danse Macabre Tech Demo
 ## Client: Efteling
 
-## Table of contents
+### Table of contents
 - [Example Screenshot](#example-screenshot)
 - [Description](#description)
 - [Features](#features)
