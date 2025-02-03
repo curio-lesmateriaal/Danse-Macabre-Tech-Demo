@@ -1,4 +1,4 @@
-# <Case Study: Danse Macabre Tech Demo>
+# Case Study: Danse Macabre Tech Demo
 
 ## Description
 
